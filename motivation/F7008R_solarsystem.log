@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.7.14)  10 SEP 2018 10:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.7.14)  10 SEP 2018 10:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -300,24 +300,24 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./figures/LTU_logo.jpg>])
-Overfull \hbox (12.61655pt too wide) in paragraph at lines 30--35
+Overfull \hbox (12.61655pt too wide) in paragraph at lines 28--33
 [] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 37.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 35.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.37 \end{document}
+l.35 \end{document}
                     [1]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 37.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 35.
  (./F7008R_solarsystem.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 37.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 37.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 35.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 35.
 Package rerunfilecheck Info: File `F7008R_solarsystem.out' has not changed.
 (rerunfilecheck)             Checksum: E7C436A6DC1EC906D89EC92490894A54;90.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 37.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 35.
  ) 
 Here is how much of TeX's memory you used:
  5515 strings out of 494880
@@ -332,7 +332,7 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on F7008R_solarsystem.pdf (2 pages, 167713 bytes).
+Output written on F7008R_solarsystem.pdf (2 pages, 167432 bytes).
 PDF statistics:
  48 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
