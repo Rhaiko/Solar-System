@@ -1,5 +1,5 @@
 \babel@toc {english}{}
-\contentsline {section}{Summary}{1}{Doc-Start}
+\contentsline {section}{Summary}{0}{Doc-Start}
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}
 \contentsline {section}{\numberline {2}The formation of comets \& asteroids in the early solar system}{1}{section.2}
 \contentsline {section}{\numberline {3}The formation of Earth in the early solar system}{1}{section.3}

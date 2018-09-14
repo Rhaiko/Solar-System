@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.7.14)  12 SEP 2018 23:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.7.14)  14 SEP 2018 11:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -321,17 +321,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./figures/LTU_logo.jpg>]) 
-(./chapters/summary.tex)pdfTeX warning (ext4): destination with the same identi
-fier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.32 \newpage
-             				% Start at new page. [1] (./F7008R_solarsystem.toc)
+(./chapters/summary.tex) [0]
+(./F7008R_solarsystem.toc)
 \tf@toc=\write4
 \openout4 = `F7008R_solarsystem.toc'.
 
- [2]
-(./chapters/introduction.tex
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.42 \newpage
+             				% Start at new page. [1] (./chapters/introduction.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
@@ -347,27 +347,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--14
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 15--44
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--58
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--64
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
+Underfull \hbox (badness 10000) in paragraph at lines 15--45
 
  []
 
@@ -375,28 +355,23 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.73 \newpage
-             				% Start at new page. [1] (./chapters/conclusion.tex)pdfTeX war
-ning (ext4): destination with the same identifier (name{page.2}) has been alrea
-dy used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.80 \newpage
-             				% Start at new page. [2] (./chapters/recommendations.tex)
-[3] (./F7008R_solarsystem.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
+l.79 \newpage
+             				% Start at new page. [1] (./chapters/conclusion.tex) [2]
+(./chapters/recommendations.tex) [3] (./F7008R_solarsystem.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 99.
  [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
- (./F7008R_solarsystem.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
+
+(./F7008R_solarsystem.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 99.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 99.
 Package rerunfilecheck Info: File `F7008R_solarsystem.out' has not changed.
 (rerunfilecheck)             Checksum: 8C9275B50E095B8EBE0265BFCDC4BE51;556.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 99.
  ) 
 Here is how much of TeX's memory you used:
- 6037 strings out of 494880
- 89095 string characters out of 6179601
+ 6038 strings out of 494880
+ 89101 string characters out of 6179601
  180534 words of memory out of 5000000
  9285 multiletter control sequences out of 15000+600000
  9747 words of font info for 34 fonts, out of 8000000 for 9000
@@ -408,10 +383,10 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on F7008R_solarsystem.pdf (7 pages, 189072 bytes).
+Output written on F7008R_solarsystem.pdf (7 pages, 189668 bytes).
 PDF statistics:
- 113 PDF objects out of 1000 (max. 8388607)
- 96 compressed objects within 1 object stream
- 16 named destinations out of 1000 (max. 500000)
+ 114 PDF objects out of 1000 (max. 8388607)
+ 97 compressed objects within 1 object stream
+ 17 named destinations out of 1000 (max. 500000)
  78 words of extra memory for PDF output out of 10000 (max. 10000000)
 
