@@ -2,8 +2,15 @@
 
 \usepackage{graphicx}		% Graphics.
 \usepackage{color}
-\usepackage{hyperref}		% Table of Content has fast links to sections.
 \usepackage[english]{babel}
+\usepackage{float}
+
+% Table of Content has fast links to sections.
+\usepackage{hyperref}
+
+% Remove dots in table of contents.
+\usepackage[titles]{tocloft}
+\renewcommand{\cftdot}{}
 
 % Page style.
 \usepackage[top=2cm, bottom=2cm, left = 2cm, right = 2cm]{geometry}
@@ -45,29 +52,36 @@
 
 
 %----------------------------------------------------------------------------------------
-%	BODY.
+%	CHAPTER: FORMATION COMETS & ASTEROIDS.
 %----------------------------------------------------------------------------------------
+\newpage
 \section{The formation of comets \& asteroids in the early solar system}
 How/ where comets/ asteroids/ chondrites/ meteors are created and what this means for the d/h ratio (and perhaps other ratios) of those objects.\\
 State how the solar system formed + asteroids and comets (no terestial planets)\\
 Anja
 
-\section{The formation of Earth in the early solar system}
-How did the Earth (and Venus/Mars) form in the solar system and is it possible that there was water on earth.\\
-Was is possible for the Earth to keep the water (somewhere deep within) even with all the heat?
-Would this amount of water be enough to fill the oceans on earth (and other terrestrial bodies)?\\
-The difference between Venus, Earth and Mars d/h values.\\
-The distribution of the D/H ratio over the solar system\\
-Elrick
+
+%----------------------------------------------------------------------------------------
+%	CHAPTER: FORMATION TERRESTRIAL PLANETS.
+%----------------------------------------------------------------------------------------
+\newpage
+\input{chapters/formationEarth.tex}
 
 
+%----------------------------------------------------------------------------------------
+%	CHAPTER: BOMBARDMENT EARTH.
+%----------------------------------------------------------------------------------------
+\newpage
 \section{The bombardment of Earth}
 The current amount of water in asteroids is quite low (way lower than comets). Were there enough asteroids to deliver the water to Earth?\\
 Wouldn't a comet/asteroid heat up the atmosphere so much that most of the vapor won't get stuck in Earths atmosphere?\\
 Where did those asteroids/comets come from?\\
 Adam
 
-
+%----------------------------------------------------------------------------------------
+%	CHAPTER: ATMOSPHERE (???DELETE???)
+%----------------------------------------------------------------------------------------
+\newpage
 \section{Earths atmosphere compared to comets \& asteroids}
 D/H ratio and atmosphere ratios (like xenon and nitrogen)\\
 Probably going to be deleted
@@ -92,7 +106,7 @@ Probably going to be deleted
 %----------------------------------------------------------------------------------------
 \newpage				% Start at new page.
 \addcontentsline{toc}{section}{References}
-\bibliographystyle{plain}
+\bibliographystyle{ieeetr}
 \bibliography{references}
 
 

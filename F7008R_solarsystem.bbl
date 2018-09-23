@@ -1,7 +1,53 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
-\bibitem{nobody}
-Nobody Jr.
-\newblock My article, 2006.
+\bibitem{TPoriginWater}
+M.~J. Drake, ``Origin of water in the terrestrial planets,'' {\em Meteoritics
+  \& Planetary Science}, pp.~519--527, 2005.
+
+\bibitem{TPLecluse}
+C.~Lécluse and F.~Robert, ``Hydrogen isotope exchange reaction rates: Origin
+  of water in the inner solar system,'' {\em Geochimica et Cosmochimica}, 1994.
+
+\bibitem{TPPalme}
+H.~Palme, K.~Lobbers, and A.~Jones, ``Solar system abundances of the
+  elements,'' {\em Treatise on geochemistry}, 2003.
+
+\bibitem{TPLodders}
+K.~Lodders, ``Solar system abundances and condensations temperatures of the
+  elements,'' {\em The Astrophysical Journal}, 2003.
+
+\bibitem{TPOhtani}
+E.~Ohtani, ``Water in the mantle,'' {\em Elements}, 2005.
+
+\bibitem{TPRivkin}
+A.~Rivkin, E.~Howell, F.~Vilas, and L.~Lebofsky, ``Hydrated minerals on
+  asteroids: The astronomical record,'' {\em University of Arizona Press \& the
+  Lunar and Planetary Institute}, 2001.
+
+\bibitem{TPStimpf1}
+A.~Asaduzzaman, S.~Laref, P.~Deymier, K.~Runge, H.~Cheng, K.~Muralidharan, and
+  M.~Drake, ``A first-principles characterization of water adsorption on
+  forsterite grains,'' {\em Royal Society Publishing}, 2013.
+
+\bibitem{TPStimpf2}
+M.~Stimpf, D.~Lauretta, and M.~Drake, ``Adsorption as a mechanism to deliver
+  water to the earth,'' {\em Meteoritics \& Planetary Science}, 2004.
+
+\bibitem{TPchemistry}
+S.~Cazaux, V.~Cobut, M.~Marseille, M.~Spaans, and P.~Caselli, ``Water formation
+  on bare grains: When the chemistry on dust impacts interstellar gas,'' {\em
+  Astromy \& Astrophysics}, 2010.
+
+\bibitem{TPformationPlanetesimals}
+T.~LaTourretta and G.~Wasserburg, ``Mg diffusion in anorthite: implications for
+  the formation of early solar system planetesimals,'' {\em Elsevier}, 1998.
+
+\bibitem{TPmagma}
+L.~T. Elkins-Tanton, ``Magma oceans in the inner solar system,'' {\em Earth and
+  Planetary Sciences}, 2012.
+
+\bibitem{TPthreeEras}
+A.~Ingersoll, ``Three eras of planetary exploration,'' {\em Nature Astronomy},
+  2017.
 
 \end{thebibliography}

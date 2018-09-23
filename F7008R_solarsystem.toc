@@ -1,10 +1,14 @@
 \babel@toc {english}{}
 \contentsline {section}{Summary}{0}{Doc-Start}
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}
-\contentsline {section}{\numberline {2}The formation of comets \& asteroids in the early solar system}{1}{section.2}
-\contentsline {section}{\numberline {3}The formation of Earth in the early solar system}{1}{section.3}
-\contentsline {section}{\numberline {4}The bombardment of Earth}{1}{section.4}
-\contentsline {section}{\numberline {5}Earths atmosphere compared to comets \& asteroids}{1}{section.5}
-\contentsline {section}{\numberline {6}Conclusion}{2}{section.6}
-\contentsline {section}{\numberline {7}Recommendations}{3}{section.7}
-\contentsline {section}{References}{4}{section.7}
+\contentsline {section}{\numberline {2}The formation of comets \& asteroids in the early solar system}{2}{section.2}
+\contentsline {section}{\numberline {3}Water content of terrestrial planets after their creation}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}Formation of terrestrial planets in the early solar system}{3}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Water storage in terrestrial planets during formation}{3}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Water loss in terrestrial protoplanets}{4}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}The current D/H ratio of terrestrial planets}{5}{subsection.3.4}
+\contentsline {section}{\numberline {4}The bombardment of Earth}{6}{section.4}
+\contentsline {section}{\numberline {5}Earths atmosphere compared to comets \& asteroids}{7}{section.5}
+\contentsline {section}{\numberline {6}Conclusion}{8}{section.6}
+\contentsline {section}{\numberline {7}Recommendations}{9}{section.7}
+\contentsline {section}{References}{10}{section.7}
