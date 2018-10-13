@@ -3,36 +3,36 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: F7008R_solarsystem.aux
 The style file: ieeetr.bst
 Database file #1: references.bib
-You've used 36 entries,
+You've used 37 entries,
             1876 wiz_defined-function locations,
-            658 strings with 9148 characters,
-and the built_in function-call counts, 5985 in all, are:
-= -- 451
-> -- 385
+            664 strings with 9307 characters,
+and the built_in function-call counts, 6124 in all, are:
+= -- 462
+> -- 393
 < -- 0
-+ -- 143
-- -- 107
-* -- 390
-:= -- 995
-add.period$ -- 36
-call.type$ -- 36
-change.case$ -- 36
++ -- 146
+- -- 109
+* -- 396
+:= -- 1015
+add.period$ -- 37
+call.type$ -- 37
+change.case$ -- 37
 chr.to.int$ -- 0
-cite$ -- 36
-duplicate$ -- 288
-empty$ -- 646
-format.name$ -- 107
-if$ -- 1397
+cite$ -- 37
+duplicate$ -- 292
+empty$ -- 664
+format.name$ -- 109
+if$ -- 1432
 int.to.chr$ -- 0
-int.to.str$ -- 36
+int.to.str$ -- 37
 missing$ -- 26
-newline$ -- 111
-num.names$ -- 36
-pop$ -- 172
+newline$ -- 114
+num.names$ -- 37
+pop$ -- 179
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 102
+skip$ -- 107
 stack$ -- 0
 substring$ -- 48
 swap$ -- 40
@@ -41,6 +41,6 @@ text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 40
-width$ -- 38
-write$ -- 282
+while$ -- 41
+width$ -- 39
+write$ -- 289

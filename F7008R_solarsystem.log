@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.13)  13 OCT 2018 19:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.13)  13 OCT 2018 20:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -492,17 +492,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--46
  []
 
 [7]
+<figures/protoplanets.png, id=265, 242.3454pt x 199.947pt>
+File: figures/protoplanets.png Graphic file (type png)
+<use figures/protoplanets.png>
+Package pdftex.def Info: figures/protoplanets.png  used on input line 59.
+(pdftex.def)             Requested size: 475.45825pt x 392.27785pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+[8 <./figures/protoplanets.png>]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-<figures/dh-ratio-terrestrial-planets.jpg, id=264, 929.4725pt x 576.1525pt>
+<figures/dh-ratio-terrestrial-planets.jpg, id=278, 929.4725pt x 576.1525pt>
 File: figures/dh-ratio-terrestrial-planets.jpg Graphic file (type jpg)
 <use figures/dh-ratio-terrestrial-planets.jpg>
 Package pdftex.def Info: figures/dh-ratio-terrestrial-planets.jpg  used on inpu
-t line 59.
+t line 82.
 (pdftex.def)             Requested size: 375.36299pt x 232.67233pt.
-) [8 <./figures/dh-ratio-terrestrial-planets.jpg>]
-(./chapters/bombardment.tex
+) [9 <./figures/dh-ratio-terrestrial-planets.jpg>] (./chapters/bombardment.tex
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -607,7 +617,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-[9]
+[10]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -646,22 +656,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--48
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 50--80
+Underfull \hbox (badness 10000) in paragraph at lines 50--73
 
  []
 
-[10] [11] (./chapters/conclusion.tex) [12] (./chapters/recommendations.tex
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
-
- []
-
-
+[11] [12] (./chapters/conclusion.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 10--94
+Underfull \hbox (badness 10000) in paragraph at lines 10--80
 
  []
 
@@ -681,21 +686,25 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 105.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
  [15]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 105.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
  (./F7008R_solarsystem.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 105.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 105.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
 Package rerunfilecheck Info: File `F7008R_solarsystem.out' has not changed.
-(rerunfilecheck)             Checksum: 9C1C86B10F928FDA4FDBFFD89FBE0553;2038.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 105.
+(rerunfilecheck)             Checksum: E73339A0C57A52EE396A55602630B049;2089.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
  ) 
 Here is how much of TeX's memory you used:
- 6522 strings out of 494880
- 96790 string characters out of 6179600
- 192628 words of memory out of 5000000
- 9676 multiletter control sequences out of 15000+600000
+ 6528 strings out of 494880
+ 96921 string characters out of 6179600
+ 192770 words of memory out of 5000000
+ 9682 multiletter control sequences out of 15000+600000
  10400 words of font info for 36 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  28i,8n,28p,1837b,440s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -711,10 +720,10 @@ c/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on F7008R_solarsystem.pdf (18 pages, 926612 bytes).
+Output written on F7008R_solarsystem.pdf (18 pages, 1135695 bytes).
 PDF statistics:
- 396 PDF objects out of 1000 (max. 8388607)
- 346 compressed objects within 4 object streams
- 86 named destinations out of 1000 (max. 500000)
- 231 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 406 PDF objects out of 1000 (max. 8388607)
+ 354 compressed objects within 4 object streams
+ 88 named destinations out of 1000 (max. 500000)
+ 236 words of extra memory for PDF output out of 10000 (max. 10000000)
 
