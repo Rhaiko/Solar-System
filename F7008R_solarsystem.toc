@@ -2,11 +2,11 @@
 \contentsline {section}{Summary}{0}{Doc-Start}
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}
 \contentsline {section}{\numberline {2}The formation of comets and asteroids in the early solar system}{2}{section.2}
-\contentsline {subsection}{\numberline {2.1}Creation of asteroids and comets and their H/D Ratio}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.1}Creation of asteroids and comets}{2}{subsection.2.1}
 \contentsline {subsubsection}{\numberline {2.1.1}Creation of asteroids}{2}{subsubsection.2.1.1}
 \contentsline {subsubsection}{\numberline {2.1.2}Creation of comets}{2}{subsubsection.2.1.2}
 \contentsline {subsection}{\numberline {2.2}Water distribution in the early states of the solar system and contribution to the formation of asteroids and comets}{2}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}H/D ratio in comets and asteroids}{2}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.3}D/H ratio in comets and asteroids}{2}{subsection.2.3}
 \contentsline {subsection}{\numberline {2.4}Measurement data from 67P/Churyumov-Gerasimenko}{5}{subsection.2.4}
 \contentsline {section}{\numberline {3}Water content of terrestrial planets after their creation}{6}{section.3}
 \contentsline {subsection}{\numberline {3.1}Early Accretion Model}{6}{subsection.3.1}
