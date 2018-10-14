@@ -5,45 +5,45 @@ The style file: ieeetr.bst
 Database file #1: references.bib
 Warning--empty year in LHB_Timeframe
 Warning--empty booktitle in Britt2006SmallBD
-You've used 58 entries,
+You've used 57 entries,
             1876 wiz_defined-function locations,
-            799 strings with 13756 characters,
-and the built_in function-call counts, 13125 in all, are:
-= -- 1092
-> -- 805
+            797 strings with 13724 characters,
+and the built_in function-call counts, 12768 in all, are:
+= -- 1056
+> -- 791
 < -- 0
-+ -- 292
-- -- 234
-* -- 966
-:= -- 2048
-add.period$ -- 62
-call.type$ -- 58
-change.case$ -- 58
++ -- 287
+- -- 230
+* -- 938
+:= -- 1999
+add.period$ -- 61
+call.type$ -- 57
+change.case$ -- 57
 chr.to.int$ -- 0
-cite$ -- 60
-duplicate$ -- 597
-empty$ -- 1229
-format.name$ -- 234
-if$ -- 3100
+cite$ -- 59
+duplicate$ -- 580
+empty$ -- 1198
+format.name$ -- 230
+if$ -- 3011
 int.to.chr$ -- 0
-int.to.str$ -- 58
-missing$ -- 44
-newline$ -- 181
-num.names$ -- 58
-pop$ -- 232
+int.to.str$ -- 57
+missing$ -- 43
+newline$ -- 178
+num.names$ -- 57
+pop$ -- 231
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 353
+skip$ -- 339
 stack$ -- 0
-substring$ -- 517
-swap$ -- 189
+substring$ -- 486
+swap$ -- 180
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 2
-while$ -- 92
-width$ -- 60
-write$ -- 503
+while$ -- 89
+width$ -- 59
+write$ -- 492
 (There were 2 warnings)

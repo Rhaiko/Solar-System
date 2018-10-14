@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.13)  14 OCT 2018 15:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.13)  14 OCT 2018 18:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -923,16 +923,22 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no  in font cmr10!
 ) [13] (./chapters/conclusion.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no œ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no  in font cmr10!
+
 Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 10--89
-
- []
-
-[14] (./F7008R_solarsystem.bbl
+) [14] (./F7008R_solarsystem.bbl
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ³ in font cmr10!
 Missing character: There is no â in font cmr10!
@@ -981,10 +987,10 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 100.
  ) 
 Here is how much of TeX's memory you used:
- 15965 strings out of 494880
- 292844 string characters out of 6179600
- 365853 words of memory out of 5000000
- 19040 multiletter control sequences out of 15000+600000
+ 15963 strings out of 494880
+ 292805 string characters out of 6179600
+ 365814 words of memory out of 5000000
+ 19039 multiletter control sequences out of 15000+600000
  537200 words of font info for 45 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  32i,12n,33p,10369b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1001,10 +1007,10 @@ ts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on F7008R_solarsystem.pdf (21 pages, 1171885 bytes).
+Output written on F7008R_solarsystem.pdf (21 pages, 1173381 bytes).
 PDF statistics:
  489 PDF objects out of 1000 (max. 8388607)
  432 compressed objects within 5 object streams
- 116 named destinations out of 1000 (max. 500000)
+ 115 named destinations out of 1000 (max. 500000)
  236 words of extra memory for PDF output out of 10000 (max. 10000000)
 
