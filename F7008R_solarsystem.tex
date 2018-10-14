@@ -4,6 +4,7 @@
 \usepackage{color}
 \usepackage[english]{babel}
 \usepackage{float}
+\usepackage{xfrac}
 
 % Table of Content has fast links to sections.
 \usepackage{hyperref}
@@ -11,6 +12,14 @@
 % Remove dots in table of contents.
 \usepackage[titles]{tocloft}
 \renewcommand{\cftdot}{}
+
+% More depth in titles
+\usepackage{titlesec}
+\setcounter{secnumdepth}{4}
+\titleformat{\paragraph}
+{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+\titlespacing*{\paragraph}
+{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
 
 % Page style.
 \usepackage[top=2cm, bottom=2cm, left = 2cm, right = 2cm]{geometry}

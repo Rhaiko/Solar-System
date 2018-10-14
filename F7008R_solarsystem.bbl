@@ -86,13 +86,35 @@ T.~LaTourretta and G.~Wasserburg, ``Mg diffusion in anorthite: implications for
 L.~T. Elkins-Tanton, ``Magma oceans in the inner solar system,'' {\em Earth and
   Planetary Sciences}, 2012.
 
+\bibitem{TPplanetesimals}
+G.~Basri and M.~E. Brown, ``Planetesimals to brown dwarfs: What is a planet?,''
+  2006.
+
 \bibitem{TPthreeEras}
 A.~Ingersoll, ``Three eras of planetary exploration,'' {\em Nature Astronomy},
   2017.
 
-\bibitem{TPplanetesimals}
-G.~Basri and M.~E. Brown, ``Planetesimals to brown dwarfs: What is a planet?,''
-  2006.
+\bibitem{BOMB11}
+L.~J. Hallis, G.~R. Huss, K.~Nagashima, G.~J. Taylor, S.~A. Halldórsson, D.~R.
+  hilton, M.~J. Mottl, and K.~J. Meech, ``Evidence for primordial water in
+  earth’s deep mantle,'' {\em Science}, 2015.
+
+\bibitem{BOMB12}
+L.~Vattuone, M.~Smerieri, L.~Savio, A.~M. Asaduzzaman, K.~Muralidharan, M.~J.
+  Drake, and M.~Rocca, ``Accretion disc origin of the earth's water,'' {\em
+  Philosophical transactions. Series A, Mathematical, physical, and engineering
+  sciences}, 1994.
+
+\bibitem{BOMB13}
+R.~C. Greenwood, J.-A. Barrat, M.~F. Miller, M.~Anand, N.~Dauphas, I.~A.
+  Franchi, P.~Sillard, and N.~A. Starkey, ``Correction for the research
+  article: Oxygen isotopic evidence for accretion of earth’s water before a
+  high-energy moon-forming giant impact,'' {\em Science Advances}, 2018.
+
+\bibitem{LHB_Timeframe}
+G.~Ryder, ``Mass flux in the ancient earth-moon system and benign implications
+  for the origin of life on earth,'' {\em Journal of Geophysical Research:
+  Planets}, vol.~107, no.~E4, pp.~6--1--6--13.
 
 \bibitem{BOMB1}
 T.~Hopp and T.~Kleine, ``Nature of late accretion to earth inferred from
@@ -143,22 +165,115 @@ N.~dauphas and B.~Marty, ``Inference on the nature and the mass of earths late
   veneer from noble metals and gases,'' {\em Journal of Geophysical Research:
   Planets}, 2002.
 
-\bibitem{BOMB11}
-L.~J. Hallis, G.~R. Huss, K.~Nagashima, G.~J. Taylor, S.~A. Halldórsson, D.~R.
-  hilton, M.~J. Mottl, and K.~J. Meech, ``Evidence for primordial water in
-  earth’s deep mantle,'' {\em Science}, 2015.
+\bibitem{Comet_Num}
+S.~K. Vsekhsviatskii", ``Comets, small bodies, and problems of the solar
+  system,'' {\em Publications of the Astronomical Society of the Pacific},
+  vol.~74, no.~437, p.~106, 1962.
 
-\bibitem{BOMB12}
-L.~Vattuone, M.~Smerieri, L.~Savio, A.~M. Asaduzzaman, K.~Muralidharan, M.~J.
-  Drake, and M.~Rocca, ``Accretion disc origin of the earth's water,'' {\em
-  Philosophical transactions. Series A, Mathematical, physical, and engineering
-  sciences}, 1994.
+\bibitem{Comet_AvgSz}
+D.~A. "Mendis and M.~L. Marconi, ``"a note on the total mass of comets in the
+  solar system",'' {\em "Earth, Moon, and Planets"}, vol.~"36", pp.~"187--190",
+  "Oct" "1986".
 
-\bibitem{BOMB13}
-R.~C. Greenwood, J.-A. Barrat, M.~F. Miller, M.~Anand, N.~Dauphas, I.~A.
-  Franchi, P.~Sillard, and N.~A. Starkey, ``Correction for the research
-  article: Oxygen isotopic evidence for accretion of earth’s water before a
-  high-energy moon-forming giant impact,'' {\em Science Advances}, 2018.
+\bibitem{observed_objects}
+W.~R. Johnston", ``"known populations of solar system objects: July 2018".''
+  \url{http://www.johnstonsarchive.net/astro/sslist.html}.
+\newblock Accessed: 2018-10-13.
+
+\bibitem{67P_Mass}
+L.~Jorda, R.~Gaskell, C.~Capanna, S.~Hviid, P.~Lamy, J.~Ďurech, G.~Faury,
+  O.~Groussin, P.~Gutiérrez, C.~Jackman, S.~Keihm, H.~Keller, J.~Knollenberg,
+  E.~Kührt, S.~Marchi, S.~Mottola, E.~Palmer, F.~Schloerb, H.~Sierks, J.-B.
+  Vincent, M.~A’Hearn, C.~Barbieri, R.~Rodrigo, D.~Koschny, H.~Rickman,
+  M.~Barucci, J.~Bertaux, I.~Bertini, G.~Cremonese, V.~D. Deppo, B.~Davidsson,
+  S.~Debei, M.~D. Cecco, S.~Fornasier, M.~Fulle, C.~Güttler, W.-H. Ip,
+  J.~Kramm, M.~Küppers, L.~Lara, M.~Lazzarin, J.~L. Moreno, F.~Marzari,
+  G.~Naletto, N.~Oklay, N.~Thomas, C.~Tubiana, and K.-P. Wenzel, ``The global
+  shape, density and rotation of comet 67p/churyumov-gerasimenko from
+  preperihelion rosetta/osiris observations,'' {\em Icarus}, vol.~277, pp.~257
+  -- 278, 2016.
+
+\bibitem{67P_Water}
+W.~Kofman, A.~Herique, Y.~Barbin, J.-P. Barriot, V.~Ciarletti, S.~Clifford,
+  P.~Edenhofer, C.~Elachi, C.~Eyraud, J.-P. Goutail, E.~Heggy, L.~Jorda,
+  J.~Lasue, A.-C. Levasseur-Regourd, E.~Nielsen, P.~Pasquero, F.~Preusker,
+  P.~Puget, D.~Plettemeier, Y.~Rogez, H.~Sierks, C.~Statz, H.~Svedhem,
+  I.~Williams, S.~Zine, and J.~Van~Zyl, ``Properties of the
+  67p/churyumov-gerasimenko interior revealed by consert radar,'' {\em
+  Science}, vol.~349, no.~6247, 2015.
+
+\bibitem{Cevolani1987}
+G.~Cevolani, G.~Bortolotti, and A.~Hajduk, ``Debris from comet halley, comet's
+  mass loss and age,'' {\em Il Nuovo Cimento C}, vol.~10, pp.~587--591, Sep
+  1987.
+
+\bibitem{Comet_Yeomans}
+D.~K. Yeomans", ``"comet".''
+  \url{https://web.archive.org/web/20050429084558/http://www.nasa.gov/worldbook/comet_worldbook.html}.
+\newblock Accessed: 2018-10-08.
+
+\bibitem{Britt2006SmallBD}
+D.~T. Britt, G.~J. Consol-magno, and W.~J. Merline", ``"small body density and
+  porosity : New data , new insights",'' 2006.
+
+\bibitem{morbidelli2000source}
+A.~Morbidelli, J.~Chambers, J.~I. Lunine, J.~M. Petit, F.~Robert, G.~B.
+  Valsecchi, and K.~E. Cyr, ``Source regions and timescales for the delivery of
+  water to the earth,'' {\em Meteoritics \& Planetary Science}, vol.~35,
+  pp.~1309--1320, 11 2000.
+
+\bibitem{AsteroidBelt}
+D.~Minton and R.~Malhotra, ``A record of planet migration in the main asteroid
+  belt,'' {\em Nature}, vol.~457, pp.~1109--1111, 2009.
+
+\bibitem{asteroid_AvgSz}
+"NASA", ``"in depth | asteroids – solar system exploration: Nasa science".''
+  \url{https://solarsystem.nasa.gov/small-bodies/asteroids/in-depth/}.
+\newblock Accessed: 2018-10-13.
+
+\bibitem{Asteroid_Density}
+G.~Krasinsky, E.~Pitjeva, M.~Vasilyev, and E.~Yagudina, ``Hidden mass in the
+  asteroid belt,'' {\em Icarus}, vol.~158, no.~1, pp.~98 -- 105, 2002.
+
+\bibitem{AsteroidBeltMass}
+G.~Krasinsky, E.~Pitjeva, M.~Vasilyev, and E.~Yagudina, ``Hidden mass in the
+  asteroid belt,'' {\em Icarus}, vol.~158, no.~1, pp.~98 -- 105, 2002.
+
+\bibitem{PrimAstBelt}
+J.-M. Petit, A.~Morbidelli, and J.~Chambers, ``The primordial excitation and
+  clearing of the asteroid belt,'' {\em Icarus}, vol.~153, no.~2, pp.~338 --
+  347, 2001.
+
+\bibitem{Emptybelt}
+S.~N. Raymond and A.~Izidoro, ``The empty primordial asteroid belt,'' {\em
+  Science Advances}, vol.~3, no.~9, 2017.
+
+\bibitem{ABEL_1}
+S.~Maruyama and T.~Ebisuzaki, ``Origin of the earth: A proposal of new model
+  called abel,'' {\em Geoscience Frontiers}, vol.~8, no.~2, pp.~253 -- 274,
+  2017.
+
+\bibitem{ABEL_2}
+S.~Maruyama, M.~Santosh, and S.~Azuma, ``Initiation of plate tectonics in the
+  hadean: Eclogitization triggered by the abel bombardment,'' {\em Geoscience
+  Frontiers}, vol.~9, no.~4, pp.~1033 -- 1048, 2018.
+
+\bibitem{ABEL_3}
+M.~Santosh, T.~Arai, and S.~Maruyama, ``Hadean earth and primordial continents:
+  The cradle of prebiotic life,'' {\em Geoscience Frontiers}, vol.~8, no.~2,
+  pp.~309 -- 327, 2017.
+\newblock Frontiers in Early Earth History and Primordial Life- Part I.
+
+\bibitem{LavaOcean}
+O.~Abramov, D.~A. Kring, and S.~J. Mojzsis, ``The impact environment of the
+  hadean earth,'' {\em Chemie der Erde - Geochemistry}, vol.~73, no.~3, pp.~227
+  -- 248, 2013.
+
+\bibitem{ImpactDust}
+O.~B. {Toon}, K.~{Zahnle}, D.~{Morrison}, R.~{Turco}, and C.~{Covey},
+  ``{Environmental Perturbations Caused by the Impacts of Asteroids and
+  Comets},'' {\em Annals of the New York Academy of Sciences}, vol.~822,
+  p.~401, May 1997.
 
 \bibitem{BOMB14}
 J.~Horner, O.~Mousis, J.-M. Petit, and B.~Jones, ``Differences between the
