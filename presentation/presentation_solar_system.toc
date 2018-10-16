@@ -1,11 +1,11 @@
 \babel@toc {english}{}
 \beamer@sectionintoc {1}{Formation comets \& asteroids}{3}{0}{1}
-\beamer@subsectionintoc {1}{1}{something}{3}{0}{1}
-\beamer@subsectionintoc {1}{2}{something else}{4}{0}{1}
+\beamer@subsectionintoc {1}{1}{D/H ratio of asteroids and comets}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Timescale creation of comets}{4}{0}{1}
 \beamer@sectionintoc {2}{Creation terrestrial planets}{5}{0}{2}
 \beamer@subsectionintoc {2}{1}{Collisions protoplanets}{5}{0}{2}
 \beamer@subsectionintoc {2}{2}{Current D/H ratio of terrestrial planets}{6}{0}{2}
 \beamer@sectionintoc {3}{Bombardment of Earth}{7}{0}{3}
-\beamer@subsectionintoc {3}{1}{something}{7}{0}{3}
-\beamer@subsectionintoc {3}{2}{Something else}{8}{0}{3}
+\beamer@subsectionintoc {3}{1}{Extra-Planetary Objects}{7}{0}{3}
+\beamer@subsectionintoc {3}{2}{Effects of Bombardment}{8}{0}{3}
 \beamer@sectionintoc {4}{Questions}{9}{0}{4}
